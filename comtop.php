@@ -7,7 +7,7 @@
 		<link rel="shortcut icon" href="assets/images/logo-narco.png">
 		<!-- Bootstrap CSS -->
 		<link rel="stylesheet" href="assets/css/bootstrap.css">
-		<link rel="stylesheet" href="assets/css/style.css">
+		<link rel="stylesheet" href="assets/css/style-ing.css">
 
 		<title> ASEAN-NARCO-INDEX </title>
 	</head>
