@@ -1,6 +1,6 @@
 <footer class="pt-4 border-top bg-main">
-    <div class="row mt-50 mb-40 mx-120">
-        <div class="col-lg-3 col-md-4 col-sm-12 col-12 px-3">
+    <div class="row container mt-50 mb-40">
+        <div class="col-lg-3 col-md-4 col-sm-12 col-12 px-2">
             <img src="assets/images/logo-footer.png" alt="logo-footer" class="img-footer">
             <ul class="list-unstyled">
                 <div class="contact-footer mb-2">
@@ -11,9 +11,9 @@
                 <div class="contact-footer p-0 mb-2">
                     <div class="">ติดตามสำนักงาน ป.ป.ส.อาเซียน</div>
                     <div class="d-flex align-items-center">
-                        <li class="pr-3 pt-3"><a href="#"><img src="assets/images/icons/facebook.png" alt="facebook" width="30px"></a></li>
-                        <li class="pr-3 pt-3"><a href="#"><img src="assets/images/icons/twitter.png" alt="twitter" width="30px"></a></li>
-                        <li class="pr-3 pt-4"><a href="#"><img src="assets/images/icons/youtube.png" alt="youtube" width="30px"></a></li>
+                        <li class="pr-3 pt-3"><a href="https://www.facebook.com/aseannarco" target="_blank"><img src="assets/images/icons/facebook.png" alt="facebook" width="30px"></a></li>
+                        <li class="pr-3 pt-3"><a href="https://twitter.com/aseannarco" target="_blank"><img src="assets/images/icons/twitter.png" alt="twitter" width="30px"></a></li>
+                        <li class="pr-3 pt-4"><a href="https://www.youtube.com/channel/UCGmaECiz0jRhhSVUPYo1gmA" target="_blank"><img src="assets/images/icons/youtube.png" alt="youtube" width="30px"></a></li>
                     </div>
                 </div>
             </ul>
@@ -30,7 +30,7 @@
                 <div class="col-lg-12 col-md-12 col-sm-12 col-12 p-0">
                     <h5 class="mx-3 mb-4">แผนผังเว็บไซต์</h5>
                 </div>
-                <div class="col-lg-4 col-md-4 col-sm-12 col-12 px-3">
+                <div class="col-lg-4 col-md-4 col-sm-12 col-12 px-2">
                     <ul class="list-unstyled">
                         <div class="menu-footer mb-2">
                             <li><a class="text-white text-hover" href="#">&nbsp;&nbsp;หน้าหลัก</a></li>
@@ -43,7 +43,7 @@
                         </div>
                     </ul>
                 </div>
-                <div class="col-lg-4 col-md-4 col-sm-12 col-12 px-3">
+                <div class="col-lg-4 col-md-4 col-sm-12 col-12 px-2">
                     <ul class="list-unstyled">
                         <div class="menu-footer mb-2">
                             <li><a class="text-white text-hover" href="#">&nbsp;&nbsp;เกี่ยวกับเรา</a></li>
@@ -56,7 +56,7 @@
                         </div>
                     </ul>
                 </div>
-                <div class="col-lg-4 col-md-4 col-sm-12 col-12 px-3">
+                <div class="col-lg-4 col-md-4 col-sm-12 col-12 px-2">
                     <ul class="list-unstyled">
                         <div class="menu-footer mb-2">
                             <li><a class="text-white text-hover" href="#">&nbsp;&nbsp;ข้อมูล ปปส.อาเซียน</a></li>
