@@ -1,5 +1,5 @@
-<?php include('comtop_ing.php'); ?>
-<?php include('header_ing.php'); ?>
+<?php include('comtop.php'); ?>
+<?php include('header.php'); ?>
 
 <!-- Banner -->
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
@@ -53,5 +53,5 @@
     </div>
 </div>
 
-<?php include('footer_ing.php'); ?>
-<?php include('combottom_ing.php'); ?>
+<?php include('footer.php'); ?>
+<?php include('combottom.php'); ?>
