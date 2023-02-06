@@ -8,6 +8,7 @@
 		<!-- Bootstrap CSS -->
 		<link rel="stylesheet" href="assets/css/bootstrap.css">
 		<link rel="stylesheet" href="assets/css/style-ing.css">
+		<link rel="stylesheet" href="assets/css/all.css">
 
 		<title> ASEAN-NARCO-INDEX </title>
 	</head>

@@ -3,7 +3,7 @@
         <div class="row mx-0">
             <div class="col-lg-6 col-md-12 col-sm-12 col-12 p-0">
                 <h3>ข่าวสารประชาสัมพันธ์</h3>
-                <small>เนื้อหาข่าวสารและกิจกรรมประจำสัปดาห์ ส่งตรงถึงมือคุณ</small>
+                <small class="description">เนื้อหาข่าวสารและกิจกรรมประจำสัปดาห์ ส่งตรงถึงมือคุณ</small>
             </div>
             <div class="col-lg-6 col-md-12 col-sm-12 col-12 p-0">
                 <div class="d-flex justify-content-end align-items-center">
@@ -38,8 +38,11 @@
                             </div>
                             <div class="col-lg-6 col-md-6 col-sm-6 col-6 p-0">
                                 <div class="card-body">
-                                    <h5 class="card-title">Lorem ipsum dolor sit amet consectetur.</h5>
-                                    <p class="card-text"><small>24 มกราคม 2566</small></p>
+                                    <a href="#" class="news-name"><h5 class="card-title">Lorem ipsum dolor sit amet consectetur.</h5></a>
+                                    <p class="card-text">
+                                        <small class="pr-4"><i class="fas fa-calendar"></i> 24 มกราคม 2566</small>
+                                        <small><i class="fas fa-eye"></i> 65</small>
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -52,8 +55,11 @@
                             </div>
                             <div class="col-lg-6 col-md-6 col-sm-6 col-6 p-0">
                                 <div class="card-body">
-                                    <h5 class="card-title">Lorem ipsum dolor sit amet consectetur.</h5>
-                                    <p class="card-text"><small>24 มกราคม 2566</small></p>
+                                    <a href="#" class="news-name"><h5 class="card-title">Lorem ipsum dolor sit amet consectetur.</h5></a>
+                                    <p class="card-text">
+                                        <small class="pr-4"><i class="fas fa-calendar"></i> 24 มกราคม 2566</small>
+                                        <small><i class="fas fa-eye"></i> 65</small>
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -66,8 +72,11 @@
                             </div>
                             <div class="col-lg-6 col-md-6 col-sm-6 col-6 p-0">
                                 <div class="card-body">
-                                    <h5 class="card-title">Lorem ipsum dolor sit amet consectetur.</h5>
-                                    <p class="card-text"><small>24 มกราคม 2566</small></p>
+                                    <a href="#" class="news-name"><h5 class="card-title">Lorem ipsum dolor sit amet consectetur.</h5></a>
+                                    <p class="card-text">
+                                        <small class="pr-4"><i class="fas fa-calendar"></i> 24 มกราคม 2566</small>
+                                        <small><i class="fas fa-eye"></i> 65</small>
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -80,8 +89,11 @@
                             </div>
                             <div class="col-lg-6 col-md-6 col-sm-6 col-6 p-0">
                                 <div class="card-body">
-                                    <h5 class="card-title">Lorem ipsum dolor sit amet consectetur.</h5>
-                                    <p class="card-text"><small>24 มกราคม 2566</small></p>
+                                    <a href="#" class="news-name"><h5 class="card-title">Lorem ipsum dolor sit amet consectetur.</h5></a>
+                                    <p class="card-text">
+                                        <small class="pr-4"><i class="fas fa-calendar"></i> 24 มกราคม 2566</small>
+                                        <small><i class="fas fa-eye"></i> 65</small>
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -98,8 +110,11 @@
                             </div>
                             <div class="col-lg-6 col-md-6 col-sm-6 col-6 p-0">
                                 <div class="card-body">
-                                    <h5 class="card-title">Lorem ipsum dolor sit amet consectetur.</h5>
-                                    <p class="card-text"><small>24 มกราคม 2566</small></p>
+                                    <a href="#" class="news-name"><h5 class="card-title">Lorem ipsum dolor sit amet consectetur.</h5></a>
+                                    <p class="card-text">
+                                        <small class="pr-4"><i class="fas fa-calendar"></i> 24 มกราคม 2566</small>
+                                        <small><i class="fas fa-eye"></i> 65</small>
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -112,8 +127,11 @@
                             </div>
                             <div class="col-lg-6 col-md-6 col-sm-6 col-6 p-0">
                                 <div class="card-body">
-                                    <h5 class="card-title">Lorem ipsum dolor sit amet consectetur.</h5>
-                                    <p class="card-text"><small>24 มกราคม 2566</small></p>
+                                    <a href="#" class="news-name"><h5 class="card-title">Lorem ipsum dolor sit amet consectetur.</h5></a>
+                                    <p class="card-text">
+                                        <small class="pr-4"><i class="fas fa-calendar"></i> 24 มกราคม 2566</small>
+                                        <small><i class="fas fa-eye"></i> 65</small>
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -126,8 +144,11 @@
                             </div>
                             <div class="col-lg-6 col-md-6 col-sm-6 col-6 p-0">
                                 <div class="card-body">
-                                    <h5 class="card-title">Lorem ipsum dolor sit amet consectetur.</h5>
-                                    <p class="card-text"><small>24 มกราคม 2566</small></p>
+                                    <a href="#" class="news-name"><h5 class="card-title">Lorem ipsum dolor sit amet consectetur.</h5></a>
+                                    <p class="card-text">
+                                        <small class="pr-4"><i class="fas fa-calendar"></i> 24 มกราคม 2566</small>
+                                        <small><i class="fas fa-eye"></i> 65</small>
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -140,8 +161,11 @@
                             </div>
                             <div class="col-lg-6 col-md-6 col-sm-6 col-6 p-0">
                                 <div class="card-body">
-                                    <h5 class="card-title">Lorem ipsum dolor sit amet consectetur.</h5>
-                                    <p class="card-text"><small>24 มกราคม 2566</small></p>
+                                    <a href="#" class="news-name"><h5 class="card-title">Lorem ipsum dolor sit amet consectetur.</h5></a>
+                                    <p class="card-text">
+                                        <small class="pr-4"><i class="fas fa-calendar"></i> 24 มกราคม 2566</small>
+                                        <small><i class="fas fa-eye"></i> 65</small>
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -150,8 +174,8 @@
             </div>
             <div class="tab-pane fade" id="tab-3" role="tabpanel" aria-labelledby="image-tab">
                 <div class="col-12 p-0 mt-30">
-                    <div class="alert alert-primary " role="alert">
-                        ไม่มีรูปภาพกิจกรรมให้แสดงในขณะนี้
+                    <div class="alert alert-primary text-center" role="alert" style="font-size: 18px; font-weight: 600">
+                        <i class="fas fa-images"></i>&nbsp; ไม่มีรูปภาพกิจกรรมให้แสดงในขณะนี้
                     </div>
                 </div>
             </div>

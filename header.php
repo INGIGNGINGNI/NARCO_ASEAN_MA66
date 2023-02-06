@@ -5,14 +5,41 @@
         </div>
         <div class="col-lg-6 p-0">
             <div class="row">
-                <div class="col-lg-12 p-0 d-flex justify-content-end">
-                    <h5>sadasasdsads</h5>
+                <div class="col-lg-12 p-0 pb-2 d-flex justify-content-end">
+                    <div class="d-flex pr-3">
+                        <a href="#" class="nav-top-font">EN</a>/<a href="#" class="nav-top-font">TH</a>
+                    </div>
+                    <h5> | </h5>
+                    <div class="px-3">
+                        <a href="#" class="nav-top-font"><i class="far fa-calendar-alt"></i></a>
+                    </div>
+                    <h5> | </h5>
+                    <div class="px-3">
+                        <a href="#" class="nav-top-font"><i class="fas fa-sign-in-alt"></i>&nbsp; Login</a>
+                    </div>
+                    <h5> | </h5>
+                    <div class="d-flex px-3">
+                        <a href="#" class="nav-top-font pr-2"><i class="fab fa-facebook-square"></i></a>
+                        <a href="#" class="nav-top-font"><i class="fab fa-twitter-square"></i></a>
+                    </div>
+                    <h5> | </h5>
+                    <div class="d-flex px-3">
+                        <a href="#" class="nav-top-font pr-2">ก-</a>
+                        <a href="#" class="nav-top-font">ก+</a>
+                    </div>
+                    <h5> | </h5>
+                    <div class="d-flex px-3">
+                        <a href="#" class="nav-top-font pr-2">ก</a>
+                        <a href="#" class="nav-top-font pr-2">ก</a>
+                        <a href="#" class="nav-top-font">ก</a>
+                    </div>
                 </div>
-                <div class="col-lg-12 p-0 d-flex justify-content-end">
+                <div class="col-lg-12 p-0 d-flex justify-content-end align-items-center">
                     <form role="search">
                         <input type="search" class="form-control" placeholder="    ค้นหาสิ่งที่คุณสนใจ"
                             aria-label="Search">
                     </form>
+                    <a href="" class="pl-3"><i class="fas fa-search"></i></a>
                 </div>
             </div>
         </div>
@@ -23,7 +50,7 @@
         aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
-    <div class="container pr-0">
+    <div class="container px-0">
         <div class="collapse navbar-collapse py-2" id="navbarNavDropdown">
             <ul class="navbar-nav justify-content-between">
                 <li class="nav-item">

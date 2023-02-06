@@ -4,7 +4,7 @@
             <div class="row mx-0">
                 <div class="col-lg-6 col-md-12 col-sm-12 col-12 p-0">
                     <h3>สื่อมัลติมีเดีย</h3>
-                    <small>เพื่อให้คุณสามารถติดตามข่าวสารได้สะดวกและรวดเร็ว</small>
+                    <small class="description">เพื่อให้คุณสามารถติดตามข่าวสารได้สะดวกและรวดเร็ว</small>
                 </div>
                 <div class="col-lg-6 col-md-12 col-sm-12 col-12 p-0">
                     <div class="d-flex justify-content-end align-items-center">
