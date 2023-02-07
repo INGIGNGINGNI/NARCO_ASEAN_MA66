@@ -1,13 +1,13 @@
-<div class="container mt-50 mb-40 px-0 ">
+<div class="container mt-50 mb-40 px-lg-0 ">
     <div class="title-header">
         <h3>ข่าวสารยอดนิยม</h3>
         <small class="description">เพื่อให้คุณสามารถรับรู้ข่าวสารที่สำคัญได้อย่างรวดเร็ว</small>
     </div>
     <div class="row mx-0">
-        <div class="col-lg-6 col-md-12 col-sm-12 col-12 pl-0 pr-4 mt-30">
+        <div class="col-lg-6 col-md-12 col-sm-12 col-12 p-0 pr-lg-4 mt-30">
             <div class="card border-0 shadow-main">
                 <div id="popular-news" class="carousel slide" data-ride="carousel">
-                    <ol class="carousel-indicators">
+                    <ol class="carousel-indicators ca-in-align">
                         <li data-target="#popular-news" data-slide-to="0" class="active"></li>
                         <li data-target="#popular-news" data-slide-to="1"></li>
                         <li data-target="#popular-news" data-slide-to="2"></li>
