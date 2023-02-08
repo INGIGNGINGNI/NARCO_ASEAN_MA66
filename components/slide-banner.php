@@ -1,6 +1,6 @@
 <div class="container slide-layout px-lg-0">
     <div id="slide-banner" class="carousel slide" data-ride="carousel">
-        <ol class="carousel-indicators" style="bottom: -70px;">
+        <ol class="carousel-indicators bottom-70">
             <li data-target="#slide-banner" data-slide-to="0" class="active"></li>
             <li data-target="#slide-banner" data-slide-to="1"></li>
             <li data-target="#slide-banner" data-slide-to="2"></li>

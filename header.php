@@ -1,40 +1,50 @@
-<nav class="navbar navbar-expand-lg navbar-dark p-0 bg-main">
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
-        aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-        <div class="toggle-nav"><i class="fas fa-bars"></i></div>
-    </button>
+<nav class="navbar nav navbar-expand-lg navbar-dark p-0 bg-white">
+    <div class="container-fluid">
+        <a class="d-inline-flex" href="#">
+            <img src="assets/images/logo-header.png" alt="logo-header" class="fluid-logo">
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
+            aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <div class="toggle-nav"><i class="fas fa-bars"></i></div>
+        </button>
+    </div>
+
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
         <div class="row mx-0">
             <div class="col-lg-12 col-md-12 col-sm-12 col-12 p-0">
                 <div class="bg-white">
                     <div class="container px-0">
                         <div class="row mx-0">
-                            <div class="col-lg-6 col-md-6 col-sm-12 col-12 p-0 logo-align-sm">
-                                <a class="navbar-brand p-0"><img src="assets/images/logo-header.png" alt="logo-header" class="main-logo"></a>
+                            <div class="col-lg-6 col-md-12 col-sm-12 col-12 p-0 logo-align">
+                                <a class="navbar-brand p-0"><img src="assets/images/logo-header.png" alt="logo-header"
+                                        class="main-logo"></a>
                             </div>
-                            <div class="col-lg-6 col-md-6 col-sm-12 col-12 p-0">
-                                <div class="row mx-0 py-lg-2 pb-3">
-                                    <div class="col-lg-9 col-sm-6 p-0 pb-2 d-flex justify-content-center justify-content-lg-end align-items-center">
+                            <div class="col-lg-6 col-md-12 col-sm-12 col-12 p-0">
+                                <div class="row mx-0 py-2 pb-3">
+                                    <div class="col-xl-9 col-lg-7 col-md-6 col-sm-6 p-0 pb-2 d-flex layout-custom align-items-center">
                                         <div class="d-flex pr-2">
                                             <a href="#" class="nav-top-font">EN</a>/<a href="#"
                                                 class="nav-top-font">TH</a>
                                         </div>
                                         <h5 class="m-0"> | </h5>
-                                        <div class="px-2">
+                                        <div class="px-2 px-lg-1">
                                             <a href="#" class="nav-top-font"><i class="far fa-calendar-alt"></i></a>
                                         </div>
                                         <h5 class="m-0"> | </h5>
-                                        <div class="px-2">
-                                            <a href="#" class="nav-top-font"><i class="fas fa-sign-in-alt"></i>&nbsp;Login</a>
+                                        <div class="px-2 px-lg-1">
+                                            <a href="#" class="nav-top-font"><i
+                                                    class="fas fa-sign-in-alt"></i>&nbsp;Login</a>
                                         </div>
                                         <h5 class="m-0"> | </h5>
-                                        <div class="d-flex px-2">
-                                            <a href="#" class="facebook-icon pr-2"><i class="fab fa-facebook-square"></i></a>
+                                        <div class="d-flex px-2 px-lg-1">
+                                            <a href="#" class="facebook-icon pr-2"><i
+                                                    class="fab fa-facebook-square"></i></a>
                                             <a href="#" class="twitter-icon"><i class="fab fa-twitter-square"></i></a>
                                         </div>
                                     </div>
-                                    <div class="col-lg-3 col-sm-6 p-0 pb-2 d-flex justify-content-center justify-content-lg-start align-items-center">
-                                        <div class="d-flex px-2">
+                                    <div class="col-xl-3 col-lg-5 col-md-6 col-sm-12 p-0 pb-2 d-flex layout-custom-second align-items-center">
+                                        <h5 class="m-0"> | </h5>
+                                        <div class="d-flex px-2 px-lg-1">
                                             <a href="#" class="nav-top-font pr-2">ก-</a>
                                             <a href="#" class="nav-top-font">ก+</a>
                                         </div>
@@ -51,7 +61,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-sm-12 col-12 p-0 d-flex justify-content-center justify-content-lg-end align-items-center">
+                                    <div class="col-sm-12 col-12 p-0 d-flex layout-custom align-items-center">
                                         <form role="search">
                                             <input type="search" class="form-control" placeholder="    ค้นหาสิ่งที่คุณสนใจ" aria-label="Search">
                                         </form>

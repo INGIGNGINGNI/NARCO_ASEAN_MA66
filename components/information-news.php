@@ -1,12 +1,12 @@
-<div class="container  mt-50 mb-40 px-0">
+<div class="container mt-50 mb-40 px-lg-0 px-md-4">
     <div class="">
         <div class="row mx-0">
-            <div class="col-lg-6 col-md-12 col-sm-12 col-12 p-lg-0 header-info">
+            <div class="col-lg-6 col-md-8 col-sm-12 col-12 p-lg-0 header-info">
                 <h3>ข่าวสารประชาสัมพันธ์</h3>
                 <small class="description">เนื้อหาข่าวสารและกิจกรรมประจำสัปดาห์ ส่งตรงถึงมือคุณ</small>
             </div>
-            <div class="col-lg-6 col-md-12 col-sm-12 col-12 p-0">
-                <div class="d-flex justify-content-center justify-content-lg-end align-items-center">
+            <div class="col-lg-6 col-md-4 col-sm-12 col-12 p-0">
+                <div class="d-flex layout-infonews-custom align-items-center">
                     <a href="#" class="btn btn-main">อ่านทั้งหมด</a>
                 </div>
             </div>
@@ -30,14 +30,13 @@
         <div class="tab-content" id="myTabContent">
             <div class="mt-30 tab-pane fade show active" id="tab-1" role="tabpanel" aria-labelledby="last-news-tab">
                 <div class="row mx-0">
-                    <div class="col-lg-6 col-md-6 col-sm-12 col-12 p-0 mb-4">
+                    <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 p-0 pr-lg-2 mb-4">
                         <div class="row mx-0">
-                            <div class="col-lg-6 col-md-6 col-sm-6 col-6 p-0">
-                                <img src="assets/images/news-1.png" class="card-img-top" alt="news-1"
-                                    style="border-radius: 10px;">
+                            <div class="col-xl-6 col-lg-12 col-md-6 col-sm-6 col-6 p-0">
+                                <img src="assets/images/news-1.png" class="card-img-top rounded-border" alt="news-1">
                             </div>
-                            <div class="col-lg-6 col-md-6 col-sm-6 col-6 p-0">
-                                <div class="card-body">
+                            <div class="col-xl-6 col-lg-12 col-md-6 col-sm-6 col-6 p-0">
+                                <div class="card-body card-body-info-news">
                                     <a href="#" class="news-name">
                                         <h5 class="card-title">Lorem ipsum dolor sit amet consectetur.</h5>
                                     </a>
@@ -49,14 +48,13 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6 col-md-6 col-sm-12 col-12 p-0 mb-4">
+                    <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 p-0 pl-lg-2 mb-4">
                         <div class="row mx-0">
-                            <div class="col-lg-6 col-md-6 col-sm-6 col-6 p-0">
-                                <img src="assets/images/news-2.png" class="card-img-top" alt="news-2"
-                                    style="border-radius: 10px;">
+                            <div class="col-xl-6 col-lg-12 col-md-6 col-sm-6 col-6 p-0">
+                                <img src="assets/images/news-2.png" class="card-img-top rounded-border" alt="news-2">
                             </div>
-                            <div class="col-lg-6 col-md-6 col-sm-6 col-6 p-0">
-                                <div class="card-body">
+                            <div class="col-xl-6 col-lg-12 col-md-6 col-sm-6 col-6 p-0">
+                                <div class="card-body card-body-info-news">
                                     <a href="#" class="news-name">
                                         <h5 class="card-title">Lorem ipsum dolor sit amet consectetur.</h5>
                                     </a>
@@ -68,14 +66,13 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6 col-md-6 col-sm-12 col-12 p-0 mb-4">
+                    <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 p-0 pr-lg-2 mb-4">
                         <div class="row mx-0">
-                            <div class="col-lg-6 col-md-6 col-sm-6 col-6 p-0">
-                                <img src="assets/images/news-3.png" class="card-img-top" alt="news-3"
-                                    style="border-radius: 10px;">
+                            <div class="col-xl-6 col-lg-12 col-md-6 col-sm-6 col-6 p-0">
+                                <img src="assets/images/news-3.png" class="card-img-top rounded-border" alt="news-3">
                             </div>
-                            <div class="col-lg-6 col-md-6 col-sm-6 col-6 p-0">
-                                <div class="card-body">
+                            <div class="col-xl-6 col-lg-12 col-md-6 col-sm-6 col-6 p-0">
+                                <div class="card-body card-body-info-news">
                                     <a href="#" class="news-name">
                                         <h5 class="card-title">Lorem ipsum dolor sit amet consectetur.</h5>
                                     </a>
@@ -87,14 +84,13 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6 col-md-6 col-sm-12 col-12 p-0 mb-4">
+                    <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 p-0 pl-lg-2 mb-4">
                         <div class="row mx-0">
-                            <div class="col-lg-6 col-md-6 col-sm-6 col-6 p-0">
-                                <img src="assets/images/news-4.png" class="card-img-top" alt="news-4"
-                                    style="border-radius: 10px;">
+                            <div class="col-xl-6 col-lg-12 col-md-6 col-sm-6 col-6 p-0">
+                                <img src="assets/images/news-4.png" class="card-img-top rounded-border" alt="news-4">
                             </div>
-                            <div class="col-lg-6 col-md-6 col-sm-6 col-6 p-0">
-                                <div class="card-body">
+                            <div class="col-xl-6 col-lg-12 col-md-6 col-sm-6 col-6 p-0">
+                                <div class="card-body card-body-info-news">
                                     <a href="#" class="news-name">
                                         <h5 class="card-title">Lorem ipsum dolor sit amet consectetur.</h5>
                                     </a>
@@ -110,14 +106,13 @@
             </div>
             <div class="mt-30 tab-pane fade" id="tab-2" role="tabpanel" aria-labelledby="information-tab">
                 <div class="row mx-0">
-                    <div class="col-lg-6 col-md-6 col-sm-12 col-12 p-0 mb-4">
+                    <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 p-0 pr-lg-2 mb-4">
                         <div class="row mx-0">
-                            <div class="col-lg-6 col-md-6 col-sm-6 col-6 p-0">
-                                <img src="assets/images/news-4.png" class="card-img-top" alt="news-4"
-                                    style="border-radius: 10px;">
+                            <div class="col-xl-6 col-lg-12 col-md-6 col-sm-6 col-6 p-0">
+                                <img src="assets/images/news-4.png" class="card-img-top rounded-border" alt="news-4">
                             </div>
-                            <div class="col-lg-6 col-md-6 col-sm-6 col-6 p-0">
-                                <div class="card-body">
+                            <div class="col-xl-6 col-lg-12 col-md-6 col-sm-6 col-6 p-0">
+                                <div class="card-body card-body-info-news">
                                     <a href="#" class="news-name">
                                         <h5 class="card-title">Lorem ipsum dolor sit amet consectetur.</h5>
                                     </a>
@@ -129,14 +124,13 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6 col-md-6 col-sm-12 col-12 p-0 mb-4">
+                    <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 p-0 pl-lg-2 mb-4">
                         <div class="row mx-0">
-                            <div class="col-lg-6 col-md-6 col-sm-6 col-6 p-0">
-                                <img src="assets/images/news-2.png" class="card-img-top" alt="news-2"
-                                    style="border-radius: 10px;">
+                            <div class="col-xl-6 col-lg-12 col-md-6 col-sm-6 col-6 p-0">
+                                <img src="assets/images/news-2.png" class="card-img-top rounded-border" alt="news-2">
                             </div>
-                            <div class="col-lg-6 col-md-6 col-sm-6 col-6 p-0">
-                                <div class="card-body">
+                            <div class="col-xl-6 col-lg-12 col-md-6 col-sm-6 col-6 p-0">
+                                <div class="card-body card-body-info-news">
                                     <a href="#" class="news-name">
                                         <h5 class="card-title">Lorem ipsum dolor sit amet consectetur.</h5>
                                     </a>
@@ -148,14 +142,13 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6 col-md-6 col-sm-12 col-12 p-0 mb-4">
+                    <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 p-0 pr-lg-2 mb-4">
                         <div class="row mx-0">
-                            <div class="col-lg-6 col-md-6 col-sm-6 col-6 p-0">
-                                <img src="assets/images/news-3.png" class="card-img-top" alt="news-3"
-                                    style="border-radius: 10px;">
+                            <div class="col-xl-6 col-lg-12 col-md-6 col-sm-6 col-6 p-0">
+                                <img src="assets/images/news-3.png" class="card-img-top rounded-border" alt="news-3">
                             </div>
-                            <div class="col-lg-6 col-md-6 col-sm-6 col-6 p-0">
-                                <div class="card-body">
+                            <div class="col-xl-6 col-lg-12 col-md-6 col-sm-6 col-6 p-0">
+                                <div class="card-body card-body-info-news">
                                     <a href="#" class="news-name">
                                         <h5 class="card-title">Lorem ipsum dolor sit amet consectetur.</h5>
                                     </a>
@@ -167,14 +160,13 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6 col-md-6 col-sm-12 col-12 p-0 mb-4">
+                    <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 p-0 pl-lg-2 mb-4">
                         <div class="row mx-0">
-                            <div class="col-lg-6 col-md-6 col-sm-6 col-6 p-0">
-                                <img src="assets/images/news-1.png" class="card-img-top" alt="news-1"
-                                    style="border-radius: 10px;">
+                            <div class="col-xl-6 col-lg-12 col-md-6 col-sm-6 col-6 p-0">
+                                <img src="assets/images/news-1.png" class="card-img-top rounded-border" alt="news-1">
                             </div>
-                            <div class="col-lg-6 col-md-6 col-sm-6 col-6 p-0">
-                                <div class="card-body">
+                            <div class="col-xl-6 col-lg-12 col-md-6 col-sm-6 col-6 p-0">
+                                <div class="card-body card-body-info-news">
                                     <a href="#" class="news-name">
                                         <h5 class="card-title">Lorem ipsum dolor sit amet consectetur.</h5>
                                     </a>
@@ -197,7 +189,7 @@
             </div>
         </div>
     </div>
-    <div class="container mt-30 px-lg-0 accordion">
+    <div class="container mt-30 px-0 accordion">
         <div id="accordion">
             <div class="card mb-2">
                 <div class="card-header" id="last-news-tab">
@@ -215,8 +207,7 @@
                             <div class="col-12 my-2 p-0">
                                 <div class="row mx-0">
                                     <div class="col-12 p-0">
-                                        <img src="assets/images/news-1.png" class="card-img-top" alt="news-1"
-                                            style="border-radius: 10px;">
+                                        <img src="assets/images/news-1.png" class="card-img-top rounded-border" alt="news-1">
                                     </div>
                                     <div class="col-12 p-0 ">
                                         <div class="py-3 px-2">
@@ -235,8 +226,7 @@
                             <div class="col-12 mb-2 p-0">
                                 <div class="row mx-0">
                                     <div class="col-12 p-0">
-                                        <img src="assets/images/news-2.png" class="card-img-top" alt="news-2"
-                                            style="border-radius: 10px;">
+                                        <img src="assets/images/news-2.png" class="card-img-top rounded-border" alt="news-2">
                                     </div>
                                     <div class="col-12 p-0 ">
                                         <div class="py-3 px-2">
@@ -255,8 +245,7 @@
                             <div class="col-12 mb-2 p-0">
                                 <div class="row mx-0">
                                     <div class="col-12 p-0">
-                                        <img src="assets/images/news-3.png" class="card-img-top" alt="news-3"
-                                            style="border-radius: 10px;">
+                                        <img src="assets/images/news-3.png" class="card-img-top rounded-border" alt="news-3">
                                     </div>
                                     <div class="col-12 p-0 ">
                                         <div class="py-3 px-2">
@@ -275,8 +264,7 @@
                             <div class="col-12 mb-2 p-0">
                                 <div class="row mx-0">
                                     <div class="col-12 p-0">
-                                        <img src="assets/images/news-4.png" class="card-img-top" alt="news-4"
-                                            style="border-radius: 10px;">
+                                        <img src="assets/images/news-4.png" class="card-img-top rounded-border" alt="news-4">
                                     </div>
                                     <div class="col-12 p-0 ">
                                         <div class="py-3 px-2">
@@ -311,8 +299,7 @@
                             <div class="col-12 my-2 p-0">
                                 <div class="row mx-0">
                                     <div class="col-12 p-0">
-                                        <img src="assets/images/news-4.png" class="card-img-top" alt="news-4"
-                                            style="border-radius: 10px;">
+                                        <img src="assets/images/news-4.png" class="card-img-top rounded-border" alt="news-4">
                                     </div>
                                     <div class="col-12 p-0 ">
                                         <div class="py-3 px-2">
@@ -331,8 +318,7 @@
                             <div class="col-12 mb-2 p-0">
                                 <div class="row mx-0">
                                     <div class="col-12 p-0">
-                                        <img src="assets/images/news-2.png" class="card-img-top" alt="news-2"
-                                            style="border-radius: 10px;">
+                                        <img src="assets/images/news-2.png" class="card-img-top rounded-border" alt="news-2">
                                     </div>
                                     <div class="col-12 p-0 ">
                                         <div class="py-3 px-2">
@@ -351,8 +337,7 @@
                             <div class="col-12 mb-2 p-0">
                                 <div class="row mx-0">
                                     <div class="col-12 p-0">
-                                        <img src="assets/images/news-3.png" class="card-img-top" alt="news-3"
-                                            style="border-radius: 10px;">
+                                        <img src="assets/images/news-3.png" class="card-img-top rounded-border" alt="news-3">
                                     </div>
                                     <div class="col-12 p-0 ">
                                         <div class="py-3 px-2">
@@ -371,8 +356,7 @@
                             <div class="col-12 mb-2 p-0">
                                 <div class="row mx-0">
                                     <div class="col-12 p-0">
-                                        <img src="assets/images/news-1.png" class="card-img-top" alt="news-1"
-                                            style="border-radius: 10px;">
+                                        <img src="assets/images/news-1.png" class="card-img-top rounded-border" alt="news-1">
                                     </div>
                                     <div class="col-12 p-0 ">
                                         <div class="py-3 px-2">
