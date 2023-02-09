@@ -7,7 +7,7 @@
             </div>
             <div class="col-lg-6 col-md-4 col-sm-12 col-12 p-0">
                 <div class="d-flex layout-infonews-custom align-items-center">
-                    <a href="#" class="btn btn-main">อ่านทั้งหมด</a>
+                    <a href="more-news.php" class="btn btn-main">อ่านทั้งหมด</a>
                 </div>
             </div>
         </div>

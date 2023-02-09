@@ -7,7 +7,7 @@
             </div>
             <div class="col-xl-6 col-lg-4 col-md-4 col-sm-12 col-12 p-lg-0">
                 <div class="d-flex justify-content-center justify-content-lg-end align-items-center">
-                    <a href="#" class="btn btn-main">ดูทั้งหมด</a>
+                    <a href="more-ebook.php" class="btn btn-main">ดูทั้งหมด</a>
                 </div>
             </div>
         </div>

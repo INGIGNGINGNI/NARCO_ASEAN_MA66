@@ -16,7 +16,7 @@
                     <div class="container px-0">
                         <div class="row mx-0">
                             <div class="col-lg-6 col-md-12 col-sm-12 col-12 p-0 logo-align">
-                                <a class="navbar-brand p-0"><img src="assets/images/logo-header.png" alt="logo-header"
+                                <a href="index.php" class="navbar-brand p-0"><img src="assets/images/logo-header.png" alt="logo-header"
                                         class="main-logo"></a>
                             </div>
                             <div class="col-lg-6 col-md-12 col-sm-12 col-12 p-0">
@@ -37,9 +37,9 @@
                                         </div>
                                         <h5 class="m-0"> | </h5>
                                         <div class="d-flex px-2 px-lg-1">
-                                            <a href="#" class="facebook-icon pr-2"><i
+                                            <a href="https://www.facebook.com/aseannarco" target="_blank" class="facebook-icon pr-2"><i
                                                     class="fab fa-facebook-square"></i></a>
-                                            <a href="#" class="twitter-icon"><i class="fab fa-twitter-square"></i></a>
+                                            <a href="https://twitter.com/aseannarco" target="_blank" class="twitter-icon"><i class="fab fa-twitter-square"></i></a>
                                         </div>
                                     </div>
                                     <div class="col-xl-3 col-lg-5 col-md-6 col-sm-12 p-0 pb-2 d-flex layout-custom-second align-items-center">
@@ -63,7 +63,7 @@
                                     </div>
                                     <div class="col-sm-12 col-12 p-0 d-flex layout-custom align-items-center">
                                         <form role="search">
-                                            <input type="search" class="form-control" placeholder="    ค้นหาสิ่งที่คุณสนใจ" aria-label="Search">
+                                            <input type="search" class="form-control-search-header" placeholder="    ค้นหาสิ่งที่คุณสนใจ" aria-label="Search">
                                         </form>
                                         <a href="" class="pl-3"><i class="fas fa-search"></i></a>
                                     </div>
@@ -79,7 +79,7 @@
                         <div class="collapse navbar-collapse py-2" id="navbarNavDropdown">
                             <ul class="navbar-nav justify-content-between">
                                 <li class="nav-item">
-                                    <a class="nav-link pl-lg-0" href="#">หน้าหลัก</a>
+                                    <a class="nav-link pl-lg-0" href="index.php">หน้าหลัก</a>
                                 </li>
                                 <li class="nav-item dropdown">
                                     <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown"
@@ -143,7 +143,7 @@
                                     </div>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">ข่าวสาร</a>
+                                    <a class="nav-link" href="more-news.php">ข่าวสาร</a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" href="#">ติดต่อเรา</a>
