@@ -29,7 +29,8 @@
                 <label for="end-date" class="form-label">ถึงวันที่</label>
                 <input type="date" name="end-date" id="end-date" class="form-control rounded-border">
             </div>
-            <div class="col-xl-2 col-lg-3 col-md-6 col-sm-12 col-12 pr-lg-0 pt-3 d-flex align-items-center">
+            <div
+                class="col-xl-2 col-lg-3 col-md-6 col-sm-12 col-12 px-0 pt-3 d-flex justify-content-center align-items-center">
                 <button type="submit" name="enter-search" class="btn btn-main">ค้นหา</button>
             </div>
         </div>
@@ -53,6 +54,9 @@
                             <small class="pr-4"><i class="fas fa-calendar"></i> 24 มกราคม 2566</small>
                             <small><i class="fas fa-eye"></i> 65</small>
                         </p>
+                        <div class="download-ebook text-right px-4 pt-3">
+                            <a href="#"><i class="fas fa-arrow-alt-circle-down"></i>&nbsp; ดาวน์โหลด</a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -71,6 +75,9 @@
                             <small class="pr-4"><i class="fas fa-calendar"></i> 24 มกราคม 2566</small>
                             <small><i class="fas fa-eye"></i> 65</small>
                         </p>
+                        <div class="download-ebook text-right px-4 pt-3">
+                            <a href="#"><i class="fas fa-arrow-alt-circle-down"></i>&nbsp; ดาวน์โหลด</a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -89,6 +96,9 @@
                             <small class="pr-4"><i class="fas fa-calendar"></i> 24 มกราคม 2566</small>
                             <small><i class="fas fa-eye"></i> 65</small>
                         </p>
+                        <div class="download-ebook text-right px-4 pt-3">
+                            <a href="#"><i class="fas fa-arrow-alt-circle-down"></i>&nbsp; ดาวน์โหลด</a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -107,6 +117,9 @@
                             <small class="pr-4"><i class="fas fa-calendar"></i> 24 มกราคม 2566</small>
                             <small><i class="fas fa-eye"></i> 65</small>
                         </p>
+                        <div class="download-ebook text-right px-4 pt-3">
+                            <a href="#"><i class="fas fa-arrow-alt-circle-down"></i>&nbsp; ดาวน์โหลด</a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -125,6 +138,9 @@
                             <small class="pr-4"><i class="fas fa-calendar"></i> 24 มกราคม 2566</small>
                             <small><i class="fas fa-eye"></i> 65</small>
                         </p>
+                        <div class="download-ebook text-right px-4 pt-3">
+                            <a href="#"><i class="fas fa-arrow-alt-circle-down"></i>&nbsp; ดาวน์โหลด</a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -143,6 +159,9 @@
                             <small class="pr-4"><i class="fas fa-calendar"></i> 24 มกราคม 2566</small>
                             <small><i class="fas fa-eye"></i> 65</small>
                         </p>
+                        <div class="download-ebook text-right px-4 pt-3">
+                            <a href="#"><i class="fas fa-arrow-alt-circle-down"></i>&nbsp; ดาวน์โหลด</a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -161,6 +180,9 @@
                             <small class="pr-4"><i class="fas fa-calendar"></i> 24 มกราคม 2566</small>
                             <small><i class="fas fa-eye"></i> 65</small>
                         </p>
+                        <div class="download-ebook text-right px-4 pt-3">
+                            <a href="#"><i class="fas fa-arrow-alt-circle-down"></i>&nbsp; ดาวน์โหลด</a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -179,6 +201,9 @@
                             <small class="pr-4"><i class="fas fa-calendar"></i> 24 มกราคม 2566</small>
                             <small><i class="fas fa-eye"></i> 65</small>
                         </p>
+                        <div class="download-ebook text-right px-4 pt-3">
+                            <a href="#"><i class="fas fa-arrow-alt-circle-down"></i>&nbsp; ดาวน์โหลด</a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -197,6 +222,9 @@
                             <small class="pr-4"><i class="fas fa-calendar"></i> 24 มกราคม 2566</small>
                             <small><i class="fas fa-eye"></i> 65</small>
                         </p>
+                        <div class="download-ebook text-right px-4 pt-3">
+                            <a href="#"><i class="fas fa-arrow-alt-circle-down"></i>&nbsp; ดาวน์โหลด</a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -215,6 +243,9 @@
                             <small class="pr-4"><i class="fas fa-calendar"></i> 24 มกราคม 2566</small>
                             <small><i class="fas fa-eye"></i> 65</small>
                         </p>
+                        <div class="download-ebook text-right px-4 pt-3">
+                            <a href="#"><i class="fas fa-arrow-alt-circle-down"></i>&nbsp; ดาวน์โหลด</a>
+                        </div>
                     </div>
                 </div>
             </div>

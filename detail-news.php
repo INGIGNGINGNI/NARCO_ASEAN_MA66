@@ -104,7 +104,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 pl-lg-5 pr-md-4">
+        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 pl-lg-5 pr-md-4 mt-sm-5">
             <h5 align="justify">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Perspiciatis
                 consequatur, fuga
                 rerum atque facere tenetur quo rem porro aliquam debitis tempore blanditiis distinctio quae

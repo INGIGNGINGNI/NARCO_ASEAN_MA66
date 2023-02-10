@@ -1,4 +1,4 @@
-<div id="banner-slide" class="carousel slide" data-ride="carousel">
+<div id="banner-slide" class="carousel slide content-position" data-ride="carousel">
     <ol class="carousel-indicators">
         <li data-target="#banner-slide" data-slide-to="0" class="active"></li>
         <li data-target="#banner-slide" data-slide-to="1"></li>

@@ -7,7 +7,7 @@
         <div class="col-xl-6 col-lg-12 col-md-12 col-sm-12 col-12 p-0 pr-xl-4 mt-30">
             <div class="card border-0 shadow-main">
                 <div id="popular-news" class="carousel slide" data-ride="carousel">
-                    <ol class="carousel-indicators ca-in-align">
+                    <ol class="popnews-indicators">
                         <li data-target="#popular-news" data-slide-to="0" class="active"></li>
                         <li data-target="#popular-news" data-slide-to="1"></li>
                         <li data-target="#popular-news" data-slide-to="2"></li>

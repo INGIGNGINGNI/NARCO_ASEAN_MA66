@@ -622,6 +622,7 @@
   var SELECTOR_ITEM_IMG = '.carousel-item img';
   var SELECTOR_NEXT_PREV = '.carousel-item-next, .carousel-item-prev';
   var SELECTOR_INDICATORS = '.carousel-indicators';
+  var SELECTOR_INDICATORSS = '.popnews-indicators';
   var SELECTOR_DATA_SLIDE = '[data-slide], [data-slide-to]';
   var SELECTOR_DATA_RIDE = '[data-ride="carousel"]';
   var Default$7 = {
@@ -661,6 +662,7 @@
       this._config = this._getConfig(config);
       this._element = element;
       this._indicatorsElement = this._element.querySelector(SELECTOR_INDICATORS);
+      this._indicatorsElements = this._element.querySelector(SELECTOR_INDICATORSS);
       this._touchSupported = 'ontouchstart' in document.documentElement || navigator.maxTouchPoints > 0;
       this._pointerEvent = Boolean(window.PointerEvent || window.MSPointerEvent);
 
@@ -763,6 +765,7 @@
       this._isSliding = null;
       this._activeElement = null;
       this._indicatorsElement = null;
+      this._indicatorsElements = null;
     } // Private
     ;
 
@@ -949,6 +952,16 @@
         $__default["default"](indicators).removeClass(CLASS_NAME_ACTIVE$2);
 
         var nextIndicator = this._indicatorsElement.children[this._getItemIndex(element)];
+
+        if (nextIndicator) {
+          $__default["default"](nextIndicator).addClass(CLASS_NAME_ACTIVE$2);
+        }
+      }
+      if (this._indicatorsElements) {
+        var indicators = [].slice.call(this._indicatorsElements.querySelectorAll(SELECTOR_ACTIVE$1));
+        $__default["default"](indicators).removeClass(CLASS_NAME_ACTIVE$2);
+
+        var nextIndicator = this._indicatorsElements.children[this._getItemIndex(element)];
 
         if (nextIndicator) {
           $__default["default"](nextIndicator).addClass(CLASS_NAME_ACTIVE$2);

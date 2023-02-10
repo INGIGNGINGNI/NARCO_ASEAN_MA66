@@ -41,6 +41,9 @@ a:hover {
     margin-left: auto;
     margin-right: auto;
 }
+.content-position {
+    margin-top: 153px;
+}
 .shadow-main {
     box-shadow: 0px 2px 10px 0px rgba(35,35,35,0.1);
 }
@@ -143,10 +146,11 @@ a:hover {
 }
 .dropdown-menu .dropdown-item {
     font-size: 16px;
+    font-weight: 500;
 }
 .dropdown-item:hover, .dropdown-item:focus {
     color: #0D47A1;
-    font-weight: 600;
+    font-weight: 500;
     text-decoration: none;
     background-color: #BBDEFB;
 }
@@ -157,6 +161,12 @@ a.nav-top-font {
 a.nav-top-font :hover {
     color: #1565C0;
     font-weight: 600;
+}
+span.font-drop {
+    font-size: 16px;
+}
+span.font-plus {
+    font-size: 20px;
 }
 a.facebook-icon {
     font-size: 18px;
@@ -212,6 +222,33 @@ a.twitter-icon:hover{
     margin: 0 5px;
 }
 .carousel-indicators li {
+    background-color: #BBDEFB;
+    width: 30px;
+    height: 10px;
+    margin: 0 5px;
+    border: 10px;
+    border-radius: 10px;
+}
+.popnews-indicators {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 15;
+    display: flex;
+    justify-content: center;
+    padding-left: 0;
+    margin-right: 15%;
+    margin-left: 15%;
+    list-style: none;
+}
+.popnews-indicators .active {
+    background-color: #0D47A1;
+    width: 50px;
+    height: 10px;
+    margin: 0 5px;
+}
+.popnews-indicators li {
     background-color: #BBDEFB;
     width: 30px;
     height: 10px;
@@ -462,6 +499,13 @@ a.breadcrumb-menu {
     overflow: hidden;
     /* border-radius: 10px; */
 }
+.download-ebook a {
+    color: #0D47A1;
+    font-weight: 600;
+}
+.download-ebook :hover {
+    opacity: .75;
+}
 @media (min-width: 320px) and (max-width: 374.98px) {
     .layout-custom {
         justify-content: center;
@@ -493,6 +537,9 @@ a.breadcrumb-menu {
     }
 }
 @media (max-width: 575.98px) {
+    .content-position {
+        margin-top: 62px;
+    }
     .layout-custom {
         justify-content: center;
     }
@@ -542,6 +589,16 @@ a.breadcrumb-menu {
         height: 5px;
         margin: 0 3px;
     }
+    .popnews-indicators .active {
+        width: 30px;
+        height: 5px;
+        margin: 0 3px;
+    }
+    .popnews-indicators li {
+        width: 10px;
+        height: 5px;
+        margin: 0 3px;
+    }
     .news-info {
         height: 35px;
     }
@@ -565,7 +622,7 @@ a.breadcrumb-menu {
         font-size: 24px;
     }
     h5 {
-        font-size: 16px;
+        font-size: 18px;
     }
     .title-header {
         text-align: center;
@@ -634,21 +691,27 @@ a.breadcrumb-menu {
         height: auto;
     }
     .align-indicator {
-        bottom: 0;
+        bottom: 1px;
     }
     .all-ebook-cover {
         width: 100%;
     }
     .card-body-ebook {
-        padding: 30px 20px;
+        padding: 20px 10px;
     }
 }
 @media (min-width: 576px) and (max-width: 599.98px) {
     .always-menu-icon {
         margin-inline: 25px;
     }
+    .align-indicator {
+        bottom: -50px;
+    }
 }
 @media (min-width: 576px) and (max-width: 767.98px) {
+    .content-position {
+        margin-top: 62px;
+    }
     .layout-custom {
         justify-content: end;
     }
@@ -686,7 +749,7 @@ a.breadcrumb-menu {
         height: auto;
     }
     .carousel-indicators {
-        bottom: -30px;
+        bottom: -5px;
     }
     .carousel-indicators .active {
         width: 30px;
@@ -694,6 +757,16 @@ a.breadcrumb-menu {
         margin: 0 3px;
     }
     .carousel-indicators li {
+        width: 10px;
+        height: 5px;
+        margin: 0 3px;
+    }
+    .popnews-indicators .active {
+        width: 30px;
+        height: 5px;
+        margin: 0 3px;
+    }
+    .popnews-indicators li {
         width: 10px;
         height: 5px;
         margin: 0 3px;
@@ -789,7 +862,7 @@ a.breadcrumb-menu {
         height: auto;
     }
     .align-indicator {
-        bottom: 0;
+        bottom: -50px;
     }
     .all-ebook-cover {
         width: 100%;
@@ -800,6 +873,9 @@ a.breadcrumb-menu {
 }
 
 @media (min-width: 768px) and (max-width: 991.98px) {
+    .content-position {
+        margin-top: 72px;
+    }
     h5 {
         font-size: 18px;
     }
@@ -822,7 +898,7 @@ a.breadcrumb-menu {
         padding: 10px 20px;
     }
     .carousel-indicators {
-        bottom: -20px;
+        bottom: 0;
     }
     .title-news {
         padding-left: 30px;
@@ -863,7 +939,7 @@ a.breadcrumb-menu {
         display: none;
     }
     .carousel-indicators {
-        bottom: -15px;
+        bottom: -20px;
     }
     .navbar-nav .nav-item .nav-link {
         font-size: 14px;
@@ -907,6 +983,9 @@ a.breadcrumb-menu {
     .card-body-ebook {
         padding: 30px 20px;
     }
+    .content-position {
+        margin-top: 150px;
+    }
 }
 @media (min-width: 1200px) {
     .navbar-expand-lg > .container-fluid {
@@ -914,5 +993,34 @@ a.breadcrumb-menu {
     }
     .layout-media-custom {
         justify-content: end;
+    }
+}
+@media (min-width: 992px){
+    .dropdown-menu .dropdown-toggle:after{
+        border-top: .3em solid transparent;
+        border-right: 0;
+        border-bottom: .3em solid transparent;
+        border-left: .3em solid;
+    }
+
+    .dropdown-menu .dropdown-menu{
+        margin-left:0; margin-right: 0;
+    }
+
+    .dropdown-menu li{
+        position: relative;
+    }
+    .nav-item .submenu{ 
+        display: none;
+        position: absolute;
+        left:100%; top:-7px;
+    }
+    .nav-item .submenu-left{ 
+        right:100%; left:auto;
+    }
+
+    .dropdown-menu > li:hover{ background-color: #f1f1f1 }
+    .dropdown-menu > li:hover > .submenu{
+        display: block;
     }
 }
