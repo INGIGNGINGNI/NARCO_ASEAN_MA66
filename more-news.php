@@ -16,20 +16,20 @@
 <div class="container p-0 mt-40 mb-40">
     <form action="#" method="POST">
         <div class="row mx-0">
-            <div class="col-xl-3 col-lg-3 col-md-6 col-sm 12 col-12 pl-lg-0 pr-lg-1 pb-3">
+            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 col-12 pl-lg-0 pr-lg-1 pb-3">
                 <label for="news-name" class="form-label">ชื่อข่าวสาร</label>
                 <input type="text" name="news-name" id="news-name" class="form-control rounded-border"
                     placeholder="   ค้นหาข่าวสารที่คุณสนใจ">
             </div>
-            <div class="col-xl-3 col-lg-3 col-md-6 col-sm 12 col-12 pr-lg-1 pb-3">
+            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12 pr-lg-1 pb-3">
                 <label for="start-date" class="form-label">ตั้งแต่วันที่</label>
                 <input type="date" name="start-date" id="start-date" class="form-control rounded-border">
             </div>
-            <div class="col-xl-3 col-lg-3 col-md-6 col-sm 12 col-12 pr-lg-1 pb-3">
+            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12 pr-lg-1 pb-3">
                 <label for="end-date" class="form-label">ถึงวันที่</label>
                 <input type="date" name="end-date" id="end-date" class="form-control rounded-border">
             </div>
-            <div class="col-xl-3 col-lg-3 col-md-6 col-sm 12 col-12 pr-lg-0 pb-3">
+            <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 col-12 pr-lg-0 pb-3">
                 <label for="news-group">หมวดหมู่</label>
                 <select id="news-group" class="form-control rounded-border">
                     <option selected>หมวดหมู่ทั้งหมด</option>
@@ -49,7 +49,7 @@
 <!-- Result's news of search -->
 <div class="container p-0 mt-20 mb-40">
     <div class="row mx-0">
-        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 pl-lg-0 pl-3 pr-3 pb-3">
+        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12 pl-lg-0 pl-3 pr-3 pb-3">
             <div class="row mx-0 shadow-main rounded-border">
                 <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 p-0">
                     <div class="card-image">
@@ -69,7 +69,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 pl-lg-0 pl-3 pr-3 pb-3">
+        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12 pl-lg-0 pl-3 pr-3 pb-3">
             <div class="row mx-0 shadow-main rounded-border">
                 <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 p-0">
                     <div class="card-image">
@@ -89,7 +89,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 pl-lg-0 pl-3 pr-3 pb-3">
+        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12 pl-lg-0 pl-3 pr-3 pb-3">
             <div class="row mx-0 shadow-main rounded-border">
                 <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 p-0">
                     <div class="card-image">
@@ -109,7 +109,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 pl-lg-0 pl-3 pr-3 pb-3">
+        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12 pl-lg-0 pl-3 pr-3 pb-3">
             <div class="row mx-0 shadow-main rounded-border">
                 <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 p-0">
                     <div class="card-image">
@@ -129,7 +129,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 pl-lg-0 pl-3 pr-3 pb-3">
+        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12 pl-lg-0 pl-3 pr-3 pb-3">
             <div class="row mx-0 shadow-main rounded-border">
                 <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 p-0">
                     <div class="card-image">
@@ -149,7 +149,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 pl-lg-0 pl-3 pr-3 pb-3">
+        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12 pl-lg-0 pl-3 pr-3 pb-3">
             <div class="row mx-0 shadow-main rounded-border">
                 <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 p-0">
                     <div class="card-image">
@@ -169,7 +169,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 pl-lg-0 pl-3 pr-3 pb-3">
+        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12 pl-lg-0 pl-3 pr-3 pb-3">
             <div class="row mx-0 shadow-main rounded-border">
                 <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 p-0">
                     <div class="card-image">
@@ -189,7 +189,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 pl-lg-0 pl-3 pr-3 pb-3">
+        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12 pl-lg-0 pl-3 pr-3 pb-3">
             <div class="row mx-0 shadow-main rounded-border">
                 <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 p-0">
                     <div class="card-image">
@@ -209,7 +209,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 pl-lg-0 pl-3 pr-3 pb-3">
+        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12 pl-lg-0 pl-3 pr-3 pb-3">
             <div class="row mx-0 shadow-main rounded-border">
                 <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 p-0">
                     <div class="card-image">
@@ -229,7 +229,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 pl-lg-0 pl-3 pr-3 pb-3">
+        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12 pl-lg-0 pl-3 pr-3 pb-3">
             <div class="row mx-0 shadow-main rounded-border">
                 <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 p-0">
                     <div class="card-image">

@@ -21,7 +21,7 @@
                             </div>
                             <div class="col-lg-6 col-md-12 col-sm-12 col-12 p-0">
                                 <div class="row mx-0 py-2 pb-3">
-                                    <div class="col-xl-9 col-lg-7 col-md-6 col-sm-6 p-0 pb-2 d-flex layout-custom align-items-center">
+                                    <div class="col-xl-9 col-lg-7 col-md-6 col-sm-6 col-12 p-0 pb-2 d-flex layout-custom align-items-center">
                                         <div class="d-flex pr-2">
                                             <a href="#" class="nav-top-font">EN</a>/<a href="#"
                                                 class="nav-top-font">TH</a>
@@ -42,7 +42,7 @@
                                             <a href="https://twitter.com/aseannarco" target="_blank" class="twitter-icon"><i class="fab fa-twitter-square"></i></a>
                                         </div>
                                     </div>
-                                    <div class="col-xl-3 col-lg-5 col-md-6 col-sm-12 p-0 pb-2 d-flex layout-custom-second align-items-center">
+                                    <div class="col-xl-3 col-lg-5 col-md-6 col-sm-6 col-12 p-0 pb-2 d-flex layout-custom-second align-items-center">
                                         <h5 class="m-0"> | </h5>
                                         <div class="d-flex px-2 px-lg-1">
                                             <a href="#" class="nav-top-font pr-2">ก-</a>
@@ -61,8 +61,8 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-sm-12 col-12 p-0 d-flex layout-custom align-items-center">
-                                        <form role="search">
+                                    <div class="col-sm-12 col-12 p-0 d-flex layout-custom justify-content-md-center justify-content-sm-center align-items-center">
+                                        <form action="#" method="POST" role="search">
                                             <input type="search" class="form-control-search-header" placeholder="    ค้นหาสิ่งที่คุณสนใจ" aria-label="Search">
                                         </form>
                                         <a href="" class="pl-3"><i class="fas fa-search"></i></a>
