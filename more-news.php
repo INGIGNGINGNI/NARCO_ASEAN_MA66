@@ -1,9 +1,9 @@
 <?php include('comtop.php'); ?>
 <?php include('header.php'); ?>
 
-<div class="title-bg title-layout m-0">
+<div class="title-bg title-layout content-position">
     <div class="py-4 text-center">
-        <h3 class="card-title">ข่าวสาร</h3>
+        <h3 class="title-card">ข่าวสาร</h3>
         <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
                 <li class="breadcrumb-item"><a href="index.php" class="breadcrumb-menu">หน้าหลัก</a></li>
@@ -30,7 +30,7 @@
                 <input type="date" name="end-date" id="end-date" class="form-control rounded-border">
             </div>
             <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12 col-12 pr-lg-0 pb-3">
-                <label for="news-group">หมวดหมู่</label>
+                <label for="news-group" class="form-label">หมวดหมู่</label>
                 <select id="news-group" class="form-control rounded-border">
                     <option selected>หมวดหมู่ทั้งหมด</option>
                     <option>ข่าวประชาสัมพันธ์</option>

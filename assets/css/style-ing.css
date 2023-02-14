@@ -67,7 +67,7 @@ a:hover {
 .bg-main {
     background-color: #0D47A1;
 }
-.bg-white {
+.white-bg {
     background-color: #FFF;
 }
 .px-header {
@@ -154,18 +154,46 @@ a:hover {
     text-decoration: none;
     background-color: #BBDEFB;
 }
+.card {
+    background-color: rgba(255, 255, 255, 0);
+}
+.f-1 {
+    background: none;
+    padding: 3px 6px;
+    color: #000;
+    font-size: 14px;
+    border-radius: 4px;
+    border: 1px #CCC solid;
+}
+.f-2 {
+    background: #000;
+    padding: 3px 6px;
+    color: #FFF;
+    font-size: 14px;
+    border-radius: 4px;
+}
+.f-3 {
+    background: #000;
+    padding: 3px 6px;
+    color: yellow;
+    font-size: 14px;
+    border-radius: 4px;
+}
 a.nav-top-font {
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 500;
 }
 a.nav-top-font :hover {
     color: #1565C0;
     font-weight: 600;
 }
-span.font-drop {
+span.font-s {
+    font-size: 14px;
+}
+span.font-m {
     font-size: 16px;
 }
-span.font-plus {
+span.font-l {
     font-size: 20px;
 }
 a.facebook-icon {
@@ -363,7 +391,7 @@ a.news-name :hover {
 .nav-tabs .nav-link.active {
     color: #495057;
     font-weight: 700;
-    background-color: #fff;;
+    background-color: rgba(255, 255, 255, 0);
     border-left: 0;
     border-right: 0;
     border-top: 0;
@@ -396,7 +424,10 @@ a.news-name :hover {
 .slide-layout {
     margin: 50px auto 100px;
 }
-
+.title.card {
+    font-weight: 600;
+    color: #232323;
+}
 footer {
     color: #FFF;
 }
@@ -469,11 +500,15 @@ iframe.map {
 .breadcrumb-item + .breadcrumb-item::before {
     content: ">>";
 }
+.breadcrumb-item.active {
+    color: #6c757d;
+}
 a.breadcrumb-menu {
     font-weight: 500;
 }
 .form-label {
     font-weight: 600;
+    color: #232323;
 }
 .card-image {
     height: 128px;
@@ -874,7 +909,7 @@ a.breadcrumb-menu {
 
 @media (min-width: 768px) and (max-width: 991.98px) {
     .content-position {
-        margin-top: 72px;
+        margin-top: 70px;
     }
     h5 {
         font-size: 18px;

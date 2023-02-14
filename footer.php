@@ -9,7 +9,7 @@
                     </li>
                 </div>
                 <div class="follow-footer p-lg-0 mb-2">
-                    <div class="">ติดตามสำนักงาน ป.ป.ส.อาเซียน</div>
+                    <div class="contact-footer py-0">ติดตามสำนักงาน ป.ป.ส.อาเซียน</div>
                     <div class="d-flex layout-social-footer align-items-center">
                         <li class="pr-3 pt-3"><a href="https://www.facebook.com/aseannarco" target="_blank" class="social-icons"><i class="fab fa-facebook-square"></i></a></li>
                         <li class="pr-3 pt-3"><a href="https://twitter.com/aseannarco" target="_blank" class="social-icons"><i class="fab fa-twitter"></i></a></li>
