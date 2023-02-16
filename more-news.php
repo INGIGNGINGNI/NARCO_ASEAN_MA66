@@ -53,7 +53,7 @@
             <div class="row mx-0 shadow-main rounded-border">
                 <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 p-0">
                     <div class="card-image">
-                        <img src="assets/images/search/search-9.png" class="card-img-top" alt="news-1">
+                        <img src="assets/images/search/search-9.webp" class="card-img-top" alt="news-1">
                     </div>
                 </div>
                 <div class="col-xl-8 col-lg-8 col-md-12 col-sm-12 col-12 p-xl-0">
@@ -73,7 +73,7 @@
             <div class="row mx-0 shadow-main rounded-border">
                 <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 p-0">
                     <div class="card-image">
-                        <img src="assets/images/search/search-10.png" class="card-img-top" alt="news-1">
+                        <img src="assets/images/search/search-10.webp" class="card-img-top" alt="news-1">
                     </div>
                 </div>
                 <div class="col-xl-8 col-lg-8 col-md-12 col-sm-12 col-12 p-xl-0">
@@ -93,7 +93,7 @@
             <div class="row mx-0 shadow-main rounded-border">
                 <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 p-0">
                     <div class="card-image">
-                        <img src="assets/images/search/search-1.png" class="card-img-top" alt="news-1">
+                        <img src="assets/images/search/search-1.webp" class="card-img-top" alt="news-1">
                     </div>
                 </div>
                 <div class="col-xl-8 col-lg-8 col-md-12 col-sm-12 col-12 p-xl-0">
@@ -113,7 +113,7 @@
             <div class="row mx-0 shadow-main rounded-border">
                 <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 p-0">
                     <div class="card-image">
-                        <img src="assets/images/search/search-2.jpg" class="card-img-top" alt="news-1">
+                        <img src="assets/images/search/search-2.webp" class="card-img-top" alt="news-1">
                     </div>
                 </div>
                 <div class="col-xl-8 col-lg-8 col-md-12 col-sm-12 col-12 p-xl-0">
@@ -133,7 +133,7 @@
             <div class="row mx-0 shadow-main rounded-border">
                 <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 p-0">
                     <div class="card-image">
-                        <img src="assets/images/search/search-3.jpg" class="card-img-top" alt="news-1">
+                        <img src="assets/images/search/search-3.webp" class="card-img-top" alt="news-1">
                     </div>
                 </div>
                 <div class="col-xl-8 col-lg-8 col-md-12 col-sm-12 col-12 p-xl-0">
@@ -153,7 +153,7 @@
             <div class="row mx-0 shadow-main rounded-border">
                 <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 p-0">
                     <div class="card-image">
-                        <img src="assets/images/search/search-4.jpg" class="card-img-top" alt="news-1">
+                        <img src="assets/images/search/search-4.webp" class="card-img-top" alt="news-1">
                     </div>
                 </div>
                 <div class="col-xl-8 col-lg-8 col-md-12 col-sm-12 col-12 p-xl-0">
@@ -173,7 +173,7 @@
             <div class="row mx-0 shadow-main rounded-border">
                 <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 p-0">
                     <div class="card-image">
-                        <img src="assets/images/search/search-5.jpg" class="card-img-top" alt="news-1">
+                        <img src="assets/images/search/search-5.webp" class="card-img-top" alt="news-1">
                     </div>
                 </div>
                 <div class="col-xl-8 col-lg-8 col-md-12 col-sm-12 col-12 p-xl-0">
@@ -193,7 +193,7 @@
             <div class="row mx-0 shadow-main rounded-border">
                 <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 p-0">
                     <div class="card-image">
-                        <img src="assets/images/search/search-6.jpg" class="card-img-top" alt="news-1">
+                        <img src="assets/images/search/search-6.webp" class="card-img-top" alt="news-1">
                     </div>
                 </div>
                 <div class="col-xl-8 col-lg-8 col-md-12 col-sm-12 col-12 p-xl-0">
@@ -213,7 +213,7 @@
             <div class="row mx-0 shadow-main rounded-border">
                 <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 p-0">
                     <div class="card-image">
-                        <img src="assets/images/search/search-7.jpg" class="card-img-top" alt="news-1">
+                        <img src="assets/images/search/search-7.webp" class="card-img-top" alt="news-1">
                     </div>
                 </div>
                 <div class="col-xl-8 col-lg-8 col-md-12 col-sm-12 col-12 p-xl-0">
@@ -233,7 +233,7 @@
             <div class="row mx-0 shadow-main rounded-border">
                 <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12 p-0">
                     <div class="card-image">
-                        <img src="assets/images/search/search-8.jpg" class="card-img-top" alt="news-1">
+                        <img src="assets/images/search/search-8.webp" class="card-img-top" alt="news-1">
                     </div>
                 </div>
                 <div class="col-xl-8 col-lg-8 col-md-12 col-sm-12 col-12 p-xl-0">

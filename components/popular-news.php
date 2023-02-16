@@ -14,15 +14,15 @@
                     </ol>
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="assets/images/pop-news-1-1.png" class="d-block w-100 card-img-top border-tl-tr"
+                            <img src="assets/images/pop-news-1-1.webp" class=" card-img-top border-tl-tr"
                                 alt="news-slide-1">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/pop-news-1-2.png" class="d-block w-100 card-img-top border-tl-tr"
+                            <img src="assets/images/pop-news-1-2.webp" class=" card-img-top border-tl-tr"
                                 alt="news-slide-2">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/pop-news-1-3.png" class="d-block w-100 card-img-top border-tl-tr"
+                            <img src="assets/images/pop-news-1-3.webp" class=" card-img-top border-tl-tr"
                                 alt="news-slide-3">
                         </div>
                     </div>
@@ -44,7 +44,7 @@
                     <div class="card border-0 shadow-main">
                         <div class="row mx-0 no-gutters mx-0">
                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 p-0">
-                                <img src="assets/images/pop-news-2.png" class="card-img-top border-tl-bl"
+                                <img src="assets/images/pop-news-2.webp" class="card-img-top border-tl-bl"
                                     alt="pop-news-2">
                             </div>
                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-12 p-0">
@@ -65,7 +65,7 @@
                     <div class="card border-0 shadow-main">
                         <div class="row mx-0 no-gutters mx-0">
                             <div class="col-lg-6 col-md-6 col-sm-12 col-12 p-0">
-                                <img src="assets/images/pop-news-3.png" class="card-img-top border-tl-bl"
+                                <img src="assets/images/pop-news-3.webp" class="card-img-top border-tl-bl"
                                     alt="pop-news-3">
                             </div>
                             <div class="col-lg-6 col-md-6 col-sm-12 col-12 p-0">

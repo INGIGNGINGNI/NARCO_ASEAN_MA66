@@ -15,27 +15,27 @@
     <div class="mt-30 px-0">
         <div class="row mx-0">
             <div class="col-xl-2 col-lg-4 col-md-4 col-sm-6 col-6 p-lg-0 mb-2 mb-lg-4">
-                <img src="assets/images/ebook-1.png" alt="ebook-1" class="ebook-cover">
+                <img src="assets/images/ebook-1.webp" alt="ebook-1" class="ebook-cover">
                 <a href="#" class="news-name"><h5 class="ebook-name">Lorem ipsum dolor sit amet consectetur.</h5></a>
             </div>
             <div class="col-xl-2 col-lg-4 col-md-4 col-sm-6 col-6 p-lg-0 mb-2 mb-lg-4">
-                <img src="assets/images/ebook-2.png" alt="ebook-2" class="ebook-cover">
+                <img src="assets/images/ebook-2.webp" alt="ebook-2" class="ebook-cover">
                 <a href="#" class="news-name"><h5 class="ebook-name">Lorem ipsum dolor sit amet consectetur.</h5></a>
             </div>
             <div class="col-xl-2 col-lg-4 col-md-4 col-sm-6 col-6 p-lg-0 mb-2 mb-lg-4">
-                <img src="assets/images/ebook-3.png" alt="ebook-3" class="ebook-cover">
+                <img src="assets/images/ebook-3.webp" alt="ebook-3" class="ebook-cover">
                 <a href="#" class="news-name"><h5 class="ebook-name">Lorem ipsum dolor sit amet consectetur.</h5></a>
             </div>
             <div class="col-xl-2 col-lg-4 col-md-4 col-sm-6 col-6 p-lg-0 mb-2 mb-lg-4">
-                <img src="assets/images/ebook-4.png" alt="ebook-4" class="ebook-cover">
+                <img src="assets/images/ebook-4.webp" alt="ebook-4" class="ebook-cover">
                 <a href="#" class="news-name"><h5 class="ebook-name">Lorem ipsum dolor sit amet consectetur.</h5></a>
             </div>
             <div class="col-xl-2 col-lg-4 col-md-4 col-sm-6 col-6 p-lg-0 mb-2 mb-lg-4">
-                <img src="assets/images/ebook-5.png" alt="ebook-5" class="ebook-cover">
+                <img src="assets/images/ebook-5.webp" alt="ebook-5" class="ebook-cover">
                 <a href="#" class="news-name"><h5 class="ebook-name">Lorem ipsum dolor sit amet consectetur.</h5></a>
             </div>
             <div class="col-xl-2 col-lg-4 col-md-4 col-sm-6 col-6 p-lg-0 mb-2 mb-lg-4">
-                <img src="assets/images/ebook-6.png" alt="ebook-6" class="ebook-cover">
+                <img src="assets/images/ebook-6.webp" alt="ebook-6" class="ebook-cover">
                 <a href="#" class="news-name"><h5 class="ebook-name">Lorem ipsum dolor sit amet consectetur.</h5></a>
             </div>
         </div>

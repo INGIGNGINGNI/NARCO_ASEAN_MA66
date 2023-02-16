@@ -34,19 +34,19 @@
                 laudantium culpa eos. Unde asperiores culpa cupiditate natus sed.</h5>
         </div>
         <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12 p-2">
-            <img src="assets/images/search/search-9.png" class="card-img-top" alt="detail-img-1">
+            <img src="assets/images/search/search-9.webp" class="card-img-top" alt="detail-img-1">
         </div>
         <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12 p-2">
-            <img src="assets/images/search/search-10.png" class="card-img-top" alt="detail-img-2">
+            <img src="assets/images/search/search-10.webp" class="card-img-top" alt="detail-img-2">
         </div>
         <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12 p-2">
-            <img src="assets/images/search/search-1.png" class="card-img-top" alt="detail-img-3">
+            <img src="assets/images/search/search-1.webp" class="card-img-top" alt="detail-img-3">
         </div>
         <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12 p-2">
-            <img src="assets/images/search/search-2.jpg" class="card-img-top" alt="detail-img-4">
+            <img src="assets/images/search/search-2.webp" class="card-img-top" alt="detail-img-4">
         </div>
         <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12 p-2">
-            <img src="assets/images/search/search-3.jpg" class="card-img-top" alt="detail-img-5">
+            <img src="assets/images/search/search-3.webp" class="card-img-top" alt="detail-img-5">
         </div>
     </div>
 </div>

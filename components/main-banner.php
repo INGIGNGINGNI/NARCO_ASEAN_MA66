@@ -6,13 +6,13 @@
     </ol>
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img src="assets/images/banner/banner-1.png" class="d-block w-100" alt="First Banner">
+            <img src="assets/images/banner/banner-1.webp" class="d-block w-100" alt="First Banner">
         </div>
         <div class="carousel-item">
-            <img src="assets/images/banner/banner-2.png" class="d-block w-100" alt="Second Banner">
+            <img src="assets/images/banner/banner-2.webp" class="d-block w-100" alt="Second Banner">
         </div>
         <div class="carousel-item">
-            <img src="assets/images/banner/banner-3.png" class="d-block w-100" alt="Third Banner">
+            <img src="assets/images/banner/banner-3.webp" class="d-block w-100" alt="Third Banner">
         </div>
     </div>
 </div>

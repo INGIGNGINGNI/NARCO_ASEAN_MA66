@@ -24,7 +24,7 @@
 <?php include('components/media.php'); ?>
 
 <!-- Media -->
-<?php include('components/slide-banner-2.php'); ?>
+<?php include('components/slide-banner.php'); ?>
 
 
 <?php include('footer.php'); ?>

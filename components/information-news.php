@@ -33,7 +33,7 @@
                     <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 p-0 pr-lg-2 mb-4">
                         <div class="row mx-0">
                             <div class="col-xl-6 col-lg-12 col-md-6 col-sm-6 col-6 p-0">
-                                <img src="assets/images/news-1.png" class="card-img-top rounded-border" alt="news-1">
+                                <img src="assets/images/news-1.webp" class="card-img-top rounded-border" alt="news-1">
                             </div>
                             <div class="col-xl-6 col-lg-12 col-md-6 col-sm-6 col-6 p-0">
                                 <div class="card-body card-body-info-news">
@@ -51,7 +51,7 @@
                     <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 p-0 pl-lg-2 mb-4">
                         <div class="row mx-0">
                             <div class="col-xl-6 col-lg-12 col-md-6 col-sm-6 col-6 p-0">
-                                <img src="assets/images/news-2.png" class="card-img-top rounded-border" alt="news-2">
+                                <img src="assets/images/news-2.webp" class="card-img-top rounded-border" alt="news-2">
                             </div>
                             <div class="col-xl-6 col-lg-12 col-md-6 col-sm-6 col-6 p-0">
                                 <div class="card-body card-body-info-news">
@@ -69,7 +69,7 @@
                     <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 p-0 pr-lg-2 mb-4">
                         <div class="row mx-0">
                             <div class="col-xl-6 col-lg-12 col-md-6 col-sm-6 col-6 p-0">
-                                <img src="assets/images/news-3.png" class="card-img-top rounded-border" alt="news-3">
+                                <img src="assets/images/news-3.webp" class="card-img-top rounded-border" alt="news-3">
                             </div>
                             <div class="col-xl-6 col-lg-12 col-md-6 col-sm-6 col-6 p-0">
                                 <div class="card-body card-body-info-news">
@@ -87,7 +87,7 @@
                     <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 p-0 pl-lg-2 mb-4">
                         <div class="row mx-0">
                             <div class="col-xl-6 col-lg-12 col-md-6 col-sm-6 col-6 p-0">
-                                <img src="assets/images/news-4.png" class="card-img-top rounded-border" alt="news-4">
+                                <img src="assets/images/news-4.webp" class="card-img-top rounded-border" alt="news-4">
                             </div>
                             <div class="col-xl-6 col-lg-12 col-md-6 col-sm-6 col-6 p-0">
                                 <div class="card-body card-body-info-news">
@@ -109,7 +109,7 @@
                     <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 p-0 pr-lg-2 mb-4">
                         <div class="row mx-0">
                             <div class="col-xl-6 col-lg-12 col-md-6 col-sm-6 col-6 p-0">
-                                <img src="assets/images/news-4.png" class="card-img-top rounded-border" alt="news-4">
+                                <img src="assets/images/news-4.webp" class="card-img-top rounded-border" alt="news-4">
                             </div>
                             <div class="col-xl-6 col-lg-12 col-md-6 col-sm-6 col-6 p-0">
                                 <div class="card-body card-body-info-news">
@@ -127,7 +127,7 @@
                     <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 p-0 pl-lg-2 mb-4">
                         <div class="row mx-0">
                             <div class="col-xl-6 col-lg-12 col-md-6 col-sm-6 col-6 p-0">
-                                <img src="assets/images/news-2.png" class="card-img-top rounded-border" alt="news-2">
+                                <img src="assets/images/news-2.webp" class="card-img-top rounded-border" alt="news-2">
                             </div>
                             <div class="col-xl-6 col-lg-12 col-md-6 col-sm-6 col-6 p-0">
                                 <div class="card-body card-body-info-news">
@@ -145,7 +145,7 @@
                     <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 p-0 pr-lg-2 mb-4">
                         <div class="row mx-0">
                             <div class="col-xl-6 col-lg-12 col-md-6 col-sm-6 col-6 p-0">
-                                <img src="assets/images/news-3.png" class="card-img-top rounded-border" alt="news-3">
+                                <img src="assets/images/news-3.webp" class="card-img-top rounded-border" alt="news-3">
                             </div>
                             <div class="col-xl-6 col-lg-12 col-md-6 col-sm-6 col-6 p-0">
                                 <div class="card-body card-body-info-news">
@@ -163,7 +163,7 @@
                     <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 p-0 pl-lg-2 mb-4">
                         <div class="row mx-0">
                             <div class="col-xl-6 col-lg-12 col-md-6 col-sm-6 col-6 p-0">
-                                <img src="assets/images/news-1.png" class="card-img-top rounded-border" alt="news-1">
+                                <img src="assets/images/news-1.webp" class="card-img-top rounded-border" alt="news-1">
                             </div>
                             <div class="col-xl-6 col-lg-12 col-md-6 col-sm-6 col-6 p-0">
                                 <div class="card-body card-body-info-news">
@@ -207,7 +207,7 @@
                             <div class="col-12 my-2 p-0">
                                 <div class="row mx-0">
                                     <div class="col-12 p-0">
-                                        <img src="assets/images/news-1.png" class="card-img-top rounded-border" alt="news-1">
+                                        <img src="assets/images/news-1.webp" class="card-img-top rounded-border" alt="news-1">
                                     </div>
                                     <div class="col-12 p-0 ">
                                         <div class="py-3 px-2">
@@ -226,7 +226,7 @@
                             <div class="col-12 mb-2 p-0">
                                 <div class="row mx-0">
                                     <div class="col-12 p-0">
-                                        <img src="assets/images/news-2.png" class="card-img-top rounded-border" alt="news-2">
+                                        <img src="assets/images/news-2.webp" class="card-img-top rounded-border" alt="news-2">
                                     </div>
                                     <div class="col-12 p-0 ">
                                         <div class="py-3 px-2">
@@ -245,7 +245,7 @@
                             <div class="col-12 mb-2 p-0">
                                 <div class="row mx-0">
                                     <div class="col-12 p-0">
-                                        <img src="assets/images/news-3.png" class="card-img-top rounded-border" alt="news-3">
+                                        <img src="assets/images/news-3.webp" class="card-img-top rounded-border" alt="news-3">
                                     </div>
                                     <div class="col-12 p-0 ">
                                         <div class="py-3 px-2">
@@ -264,7 +264,7 @@
                             <div class="col-12 mb-2 p-0">
                                 <div class="row mx-0">
                                     <div class="col-12 p-0">
-                                        <img src="assets/images/news-4.png" class="card-img-top rounded-border" alt="news-4">
+                                        <img src="assets/images/news-4.webp" class="card-img-top rounded-border" alt="news-4">
                                     </div>
                                     <div class="col-12 p-0 ">
                                         <div class="py-3 px-2">
@@ -299,7 +299,7 @@
                             <div class="col-12 my-2 p-0">
                                 <div class="row mx-0">
                                     <div class="col-12 p-0">
-                                        <img src="assets/images/news-4.png" class="card-img-top rounded-border" alt="news-4">
+                                        <img src="assets/images/news-4.webp" class="card-img-top rounded-border" alt="news-4">
                                     </div>
                                     <div class="col-12 p-0 ">
                                         <div class="py-3 px-2">
@@ -318,7 +318,7 @@
                             <div class="col-12 mb-2 p-0">
                                 <div class="row mx-0">
                                     <div class="col-12 p-0">
-                                        <img src="assets/images/news-2.png" class="card-img-top rounded-border" alt="news-2">
+                                        <img src="assets/images/news-2.webp" class="card-img-top rounded-border" alt="news-2">
                                     </div>
                                     <div class="col-12 p-0 ">
                                         <div class="py-3 px-2">
@@ -337,7 +337,7 @@
                             <div class="col-12 mb-2 p-0">
                                 <div class="row mx-0">
                                     <div class="col-12 p-0">
-                                        <img src="assets/images/news-3.png" class="card-img-top rounded-border" alt="news-3">
+                                        <img src="assets/images/news-3.webp" class="card-img-top rounded-border" alt="news-3">
                                     </div>
                                     <div class="col-12 p-0 ">
                                         <div class="py-3 px-2">
@@ -356,7 +356,7 @@
                             <div class="col-12 mb-2 p-0">
                                 <div class="row mx-0">
                                     <div class="col-12 p-0">
-                                        <img src="assets/images/news-1.png" class="card-img-top rounded-border" alt="news-1">
+                                        <img src="assets/images/news-1.webp" class="card-img-top rounded-border" alt="news-1">
                                     </div>
                                     <div class="col-12 p-0 ">
                                         <div class="py-3 px-2">

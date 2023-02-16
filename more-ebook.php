@@ -43,7 +43,7 @@
         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12 pl-lg-0 pb-3">
             <div class="row mx-0 shadow-main rounded-border">
                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12 p-0">
-                    <img src="assets/images/ebook-1.png" alt="ebook-1" class="all-ebook-cover">
+                    <img src="assets/images/ebook-1.webp" alt="ebook-1" class="all-ebook-cover">
                 </div>
                 <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12 col-12 p-0">
                     <div class="card-body-ebook">
@@ -64,7 +64,7 @@
         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12 pl-lg-0 pb-3">
             <div class="row mx-0 shadow-main rounded-border">
                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12 p-0">
-                    <img src="assets/images/ebook-2.png" alt="ebook-2" class="all-ebook-cover">
+                    <img src="assets/images/ebook-2.webp" alt="ebook-2" class="all-ebook-cover">
                 </div>
                 <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12 col-12 p-0">
                     <div class="card-body-ebook">
@@ -85,7 +85,7 @@
         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12 pl-lg-0 pb-3">
             <div class="row mx-0 shadow-main rounded-border">
                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12 p-0">
-                    <img src="assets/images/ebook-3.png" alt="ebook-3" class="all-ebook-cover">
+                    <img src="assets/images/ebook-3.webp" alt="ebook-3" class="all-ebook-cover">
                 </div>
                 <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12 col-12 p-0">
                     <div class="card-body-ebook">
@@ -106,7 +106,7 @@
         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12 pl-lg-0 pb-3">
             <div class="row mx-0 shadow-main rounded-border">
                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12 p-0">
-                    <img src="assets/images/ebook-4.png" alt="ebook-4" class="all-ebook-cover">
+                    <img src="assets/images/ebook-4.webp" alt="ebook-4" class="all-ebook-cover">
                 </div>
                 <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12 col-12 p-0">
                     <div class="card-body-ebook">
@@ -127,7 +127,7 @@
         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12 pl-lg-0 pb-3">
             <div class="row mx-0 shadow-main rounded-border">
                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12 p-0">
-                    <img src="assets/images/ebook-5.png" alt="ebook-5" class="all-ebook-cover">
+                    <img src="assets/images/ebook-5.webp" alt="ebook-5" class="all-ebook-cover">
                 </div>
                 <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12 col-12 p-0">
                     <div class="card-body-ebook">
@@ -148,7 +148,7 @@
         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12 pl-lg-0 pb-3">
             <div class="row mx-0 shadow-main rounded-border">
                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12 p-0">
-                    <img src="assets/images/ebook-6.png" alt="ebook-6" class="all-ebook-cover">
+                    <img src="assets/images/ebook-6.webp" alt="ebook-6" class="all-ebook-cover">
                 </div>
                 <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12 col-12 p-0">
                     <div class="card-body-ebook">
@@ -169,7 +169,7 @@
         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12 pl-lg-0 pb-3">
             <div class="row mx-0 shadow-main rounded-border">
                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12 p-0">
-                    <img src="assets/images/ebook-2.png" alt="ebook-2" class="all-ebook-cover">
+                    <img src="assets/images/ebook-2.webp" alt="ebook-2" class="all-ebook-cover">
                 </div>
                 <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12 col-12 p-0">
                     <div class="card-body-ebook">
@@ -190,7 +190,7 @@
         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12 pl-lg-0 pb-3">
             <div class="row mx-0 shadow-main rounded-border">
                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12 p-0">
-                    <img src="assets/images/ebook-1.png" alt="ebook-1" class="all-ebook-cover">
+                    <img src="assets/images/ebook-1.webp" alt="ebook-1" class="all-ebook-cover">
                 </div>
                 <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12 col-12 p-0">
                     <div class="card-body-ebook">
@@ -211,7 +211,7 @@
         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12 pl-lg-0 pb-3">
             <div class="row mx-0 shadow-main rounded-border">
                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12 p-0">
-                    <img src="assets/images/ebook-4.png" alt="ebook-4" class="all-ebook-cover">
+                    <img src="assets/images/ebook-4.webp" alt="ebook-4" class="all-ebook-cover">
                 </div>
                 <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12 col-12 p-0">
                     <div class="card-body-ebook">
@@ -232,7 +232,7 @@
         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12 pl-lg-0 pb-3">
             <div class="row mx-0 shadow-main rounded-border">
                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-12 p-0">
-                    <img src="assets/images/ebook-3.png" alt="ebook-3" class="all-ebook-cover">
+                    <img src="assets/images/ebook-3.webp" alt="ebook-3" class="all-ebook-cover">
                 </div>
                 <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12 col-12 p-0">
                     <div class="card-body-ebook">
