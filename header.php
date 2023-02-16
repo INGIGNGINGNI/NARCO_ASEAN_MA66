@@ -1,7 +1,7 @@
 <nav class="navbar nav navbar-expand-lg navbar-dark p-0 white-bg fixed-top">
     <div class="container-fluid">
         <a class="d-inline-flex" href="index.php">
-            <img src="assets/images/logo-header.webp" alt="logo-header" class="fluid-logo">
+            <img src="assets/images/logo-header.png" alt="logo-header" class="fluid-logo">
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
             aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -16,7 +16,7 @@
                     <div class="container px-0">
                         <div class="row mx-0">
                             <div class="col-lg-6 col-md-12 col-sm-12 col-12 p-0 logo-align">
-                                <a href="index.php" class="navbar-brand p-0"><img src="assets/images/logo-header.webp"
+                                <a href="index.php" class="navbar-brand p-0"><img src="assets/images/logo-header.png"
                                         alt="logo-header" class="main-logo"></a>
                             </div>
                             <div class="col-lg-6 col-md-12 col-sm-12 col-12 p-0">

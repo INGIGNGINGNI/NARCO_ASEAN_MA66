@@ -1,7 +1,7 @@
 <footer class="border-top bg-main">
     <div class="row container mt-50 mb-40 p-lg-0 px-md-4">
         <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12 col-12 px-1">
-            <img src="assets/images/logo-footer.webp" alt="logo-footer" class="img-footer">
+            <img src="assets/images/logo-footer.png" alt="logo-footer" class="img-footer">
             <ul class="list-unstyled">
                 <div class="contact-footer mb-2">
                     <li>เลขที่ 5 ถ.ดินแดง แขวงพญาไท เขตพญาไท กรุงเทพฯ 10400
