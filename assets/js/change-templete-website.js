@@ -1,7 +1,7 @@
 $(document).ready(function() {
     $('#normally_bg').click(function normally_bg() {
         $("body").css("background-color", "");
-        $("body").css("font-color", "");
+        $("body").css("color", "");
         $("a").css("color", "");
         $("h1").css("color", "");
         $("h2").css("color", "");
@@ -55,7 +55,7 @@ $(document).ready(function() {
 $(document).ready(function() {
     $('#black_bg').click(function black_bg() {
         $("body").css("background-color", "#000");
-        $("body").css("font-color", "#FFF");
+        $("body").css("color", "#FFF");
         $("a").css("color", "#FFF");
         $("h1").css("color", "#FFF");
         $("h2").css("color", "#FFF");
@@ -111,7 +111,7 @@ $(document).ready(function() {
 $(document).ready(function() {
     $('#yellow_bg').click(function yellow_bg() {
         $("body").css("background-color", "#000");
-        $("body").css("font-color", "#FFFF00");
+        $("body").css("color", "#FFFF00");
         $("a").css("color", "#FFFF00");
         $("h1").css("color", "#FFFF00");
         $("h2").css("color", "#FFFF00");

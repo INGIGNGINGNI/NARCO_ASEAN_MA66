@@ -16,19 +16,19 @@
         <ul class="nav nav-tabs" id="myTab" role="tablist">
             <li class="nav-item">
                 <a class="nav-link active" id="last-news-tab" data-toggle="tab" href="#tab-1" role="tab"
-                    aria-controls="tab-1" aria-selected="true">ข่าวล่าสุด</a>
+                    aria-controls="tab-1" aria-selected="true" aria-label="Latest news">ข่าวล่าสุด</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" id="information-tab" data-toggle="tab" href="#tab-2" role="tab"
-                    aria-controls="tab-2" aria-selected="false">ข่าวประชาสัมพันธ์</a>
+                <a class="nav-link" id="publicize-news-tab" data-toggle="tab" href="#tab-2" role="tab"
+                    aria-controls="tab-2" aria-selected="false" aria-label="Publicize news">ข่าวประชาสัมพันธ์</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" id="image-tab" data-toggle="tab" href="#tab-3" role="tab" aria-controls="tab-3"
-                    aria-selected="false">ประมวลภาพ</a>
+                <a class="nav-link" id="image-tab" data-toggle="tab" href="#tab-3" role="tab"
+                    aria-controls="tab-3" aria-selected="false" aria-label="Images">ประมวลภาพ</a>
             </li>
         </ul>
         <div class="tab-content" id="myTabContent">
-            <div class="mt-30 tab-pane fade show active" id="tab-1" role="tabpanel" aria-labelledby="last-news-tab">
+            <div class="tab-pane fade mt-30 show active" id="tab-1" role="tabpane" aria-labelledby="latest-news-tab">
                 <div class="row mx-0">
                     <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 p-0 pr-lg-2 mb-4">
                         <div class="row mx-0">
@@ -104,7 +104,7 @@
                     </div>
                 </div>
             </div>
-            <div class="mt-30 tab-pane fade" id="tab-2" role="tabpanel" aria-labelledby="information-tab">
+            <div class="tab-pane fade mt-30" id="tab-2" role="tabpane" aria-labelledby="publicize-news-tab">
                 <div class="row mx-0">
                     <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 p-0 pr-lg-2 mb-4">
                         <div class="row mx-0">
@@ -180,7 +180,7 @@
                     </div>
                 </div>
             </div>
-            <div class="tab-pane fade" id="tab-3" role="tabpanel" aria-labelledby="image-tab">
+            <div class="tab-pane fade" id="tab-3" role="tabpane" aria-labelledby="images-tab">
                 <div class="col-12 p-0 mt-30">
                     <div class="alert alert-primary text-center" role="alert" style="font-size: 16px; font-weight: 600">
                         <i class="fas fa-images"></i>&nbsp; ไม่มีรูปภาพกิจกรรมให้แสดงในขณะนี้
@@ -195,7 +195,7 @@
                 <div class="card-header" id="last-news-tab">
                     <h5 class="mb-0">
                         <button class="btn btn-link" data-toggle="collapse" data-target="#accordion-1"
-                            aria-expanded="true" aria-controls="accordion-1">
+                            aria-expanded="true" aria-controls="accordion-1" aria-label="Toggle accordion-1">
                             ข่าวล่าสุด
                         </button>
                     </h5>
@@ -285,15 +285,15 @@
                 </div>
             </div>
             <div class="card mb-2">
-                <div class="card-header" id="information-tab">
+                <div class="card-header" id="publicize-news-tab">
                     <h5 class="mb-0">
                         <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#accordion-2"
-                            aria-expanded="false" aria-controls="accordion-2">
+                            aria-expanded="false" aria-controls="accordion-2" aria-label="Toggle accordion-2">
                             ข่าวประชาสัมพันธ์
                         </button>
                     </h5>
                 </div>
-                <div id="accordion-2" class="collapse" aria-labelledby="information-tab" data-parent="#accordion">
+                <div id="accordion-2" class="collapse" aria-labelledby="publicize-news-tab" data-parent="#accordion">
                     <div class="p-2">
                         <div class="row mx-0">
                             <div class="col-12 my-2 p-0">
@@ -380,7 +380,7 @@
                 <div class="card-header" id="image-tab">
                     <h5 class="mb-0">
                         <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#accordion-3"
-                            aria-expanded="false" aria-controls="accordion-3">
+                            aria-expanded="false" aria-controls="accordion-3" aria-label="Toggle accordion-3">
                             ประมวลภาพ
                         </button>
                     </h5>

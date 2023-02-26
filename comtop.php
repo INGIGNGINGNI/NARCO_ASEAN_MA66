@@ -7,7 +7,7 @@
 		<meta name="description" content="สำนักงานคณะกรรมการป้องกันและปราบปรามยาเสพติดอาเซียน">
     	<meta name="keywords" content="asean-narco">
     	<meta name="author" content="สำนักงานคณะกรรมการป้องกันและปราบปรามยาเสพติดอาเซียน">
-		<link rel="shortcut icon" href="assets/images/logo-narco.png">
+		<link rel="shortcut icon" href="assets/images/logo-narco.webp">
 		<!-- Bootstrap CSS -->
 		<link rel="stylesheet" href="assets/css/bootstrap.css">
 		

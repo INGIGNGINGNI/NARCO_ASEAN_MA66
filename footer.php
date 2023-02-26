@@ -20,10 +20,8 @@
         </div>
         <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12 col-12 p-2 d-flex align-custom">
             <br><br><br>
-            <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3875.239325237306!2d100.54230375105467!3d13.764436100660065!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e29ebbbf378e13%3A0x140123209037e9d0!2z4Liq4Liz4LiZ4Lix4LiB4LiH4Liy4LiZ4LiE4LiT4Liw4LiB4Lij4Lij4Lih4LiB4Liy4Lij4Lib4LmJ4Lit4LiH4LiB4Lix4LiZ4LmB4Lil4Liw4Lib4Lij4Liy4Lia4Lib4Lij4Liy4Lih4Lii4Liy4LmA4Liq4Lie4LiV4Li04LiU!5e0!3m2!1sth!2sth!4v1675313600619!5m2!1sth!2sth"
-                class="map" style="border:0;" allowfullscreen="" loading="lazy"
-                referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3875.239325237306!2d100.54230375105467!3d13.764436100660065!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e29ebbbf378e13%3A0x140123209037e9d0!2z4Liq4Liz4LiZ4Lix4LiB4LiH4Liy4LiZ4LiE4LiT4Liw4LiB4Lij4Lij4Lih4LiB4Liy4Lij4Lib4LmJ4Lit4LiH4LiB4Lix4LiZ4LmB4Lil4Liw4Lib4Lij4Liy4Lia4Lib4Lij4Liy4Lih4Lii4Liy4LmA4Liq4Lie4LiV4Li04LiU!5e0!3m2!1sth!2sth!4v1675313600619!5m2!1sth!2sth"
+                class="map" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
         <div class="col-xl-6 col-lg-12 col-md-12 col-sm-12 col-12 p-3">
             <div class="row">
